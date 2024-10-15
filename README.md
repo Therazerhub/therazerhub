@@ -6,8 +6,8 @@ Hey there! I'm **Vaibhav Vijay Bhavre**, currently exploring **C++** and **Web D
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](www.instagram.com/therazerhub) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](www.youtube.com/@TheRazerhub) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/therazerhub) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@therazerhub) 
 [![Telegram](https://img.shields.io/badge/Telegram-%2300BFFF.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Therazerhub)
 
 
