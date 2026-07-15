@@ -2,8 +2,7 @@
 Hey there! I'm **Vaibhav Vijay Bhavre**, currently exploring **C++** and **Web Development** while working on exciting projects. Always eager to learn new technologies and contribute to the open-source community.
 
 - 📫 How to reach me: **Therazerhub@gmail.com**
-![https://camo.githubusercontent.com/056390123f79542e86ce7b5708fa57bb8b235bec8e26c40c1213a19cfa5e4ef0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f583345717678306439697a456654775342672f67697068792e676966]
----
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/therazerhub) 
