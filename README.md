@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;I'm+Vaibhav;aka+therazerhub;Building+at+1AM;Code+%3E+Coffee&center=true&width=500&height=50&duration=3000&pause=1000&color=FF69B4&background=0d1117&vCenter=true" alt="Typing SVG" />
+</div>
 
 <h1 align="center">🖤 Hey, I'm Vaibhav</h1>
-<h3 align="center"><i>aka <b>therazerhub</b> — building bots, CLIs & terminal chaos at 1 AM</i></h3>
+<h3 align="center"><i>aka <b>therazerhub</b> — building bots, CLIs & terminal chaos</i></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Therazerhub&color=blueviolet&style=for-the-badge" alt="Profile views"/>
@@ -58,6 +54,16 @@ $ uptime
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Therazerhub&theme=radical&no-frame=true&margin-w=4" alt="Trophies"/>
+</p>
+
+## 🎭 Dev Life
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%23FF69B4&aColor=%23FF79C6&borderColor=%23FF69B4" alt="Dev Jokes"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
 ## 🌐 Find Me
