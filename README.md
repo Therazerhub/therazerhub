@@ -1,32 +1,76 @@
-# 💫 About Me:
-Hey there! I'm **Vaibhav Vijay Bhavre**, currently exploring **C++** and **Web Development** while working on exciting projects. Always eager to learn new technologies and contribute to the open-source community.
-
-- 📫 How to reach me: **Therazerhub@gmail.com**
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/therazerhub) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@therazerhub) 
-[![Telegram](https://img.shields.io/badge/Telegram-%2300BFFF.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Therazerhub)
-
-
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheRazerhub&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Therazerhub&theme=radical&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therazerhub&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<h1 align="center">🖤 Hey, I'm Vaibhav</h1>
+<h3 align="center"><i>aka <b>therazerhub</b> — building bots, CLIs & terminal chaos at 1 AM</i></h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Therazerhub&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies:
+```text
+$ whoami
+vaibhav — developer, bot wrangler, caffeine-driven
+
+$ cat ~/projects
+▸ NoDick      → Telegram bot (@Moyechan_bot) — media bot, 5+ commands, deployed on Render
+▸ Anime CLI   → terminal music player with chafa album art & anime vibes
+▸ Diabetes    → ML-powered heart disease prediction (Django + SVM)
+▸ BlackSite   → stealth-mode web project
+
+$ uptime
+01:37 up 1,000+ commits, still shipping
+```
+
+## 🧠 Currently Exploring
+
+| Stack | Vibe |
+|-------|------|
+| C++ | low-level, fast, dangerous 💀 |
+| Web Dev | FastAPI, Django, sockets, deploy pain |
+| Python | the love language — bots, ML, scripts |
+
+## 📦 Featured Projects
+
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| 🖤 **NoDick** | Telegram media bot — search, stash, autopick. Live at `@Moyechan_bot` | Python, PTB, PostgreSQL, Render |
+| 🎵 **Anime CLI** | Spotify player in your terminal — chafa art, animated progress, zero bloat | Python, Rich, chafa |
+| 🩺 **Diabetes Predictor** | ML web app — SVM heart-disease risk from your numbers | Django, scikit-learn, Render |
+| 🕶️ **BlackSite** | because some projects don't get READMEs | 🥷 |
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Therazerhub&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Therazerhub&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Therazerhub&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therazerhub&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Therazerhub&theme=radical&no-frame=true&margin-w=4" alt="Trophies"/>
+</p>
+
+## 🌐 Find Me
+
+<p align="center">
+  <a href="https://instagram.com/therazerhub"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://youtube.com/@therazerhub"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <a href="https://t.me/Therazerhub"><img src="https://img.shields.io/badge/Telegram-%2300BFFF.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:Therazerhub@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
+
+<p align="center">
+  <sub>made with 🖤 by therazerhub — pull requests welcome, sleep optional</sub>
+</p>
