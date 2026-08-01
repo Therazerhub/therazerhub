@@ -40,24 +40,42 @@ Status: employed? no. happy? absolutely
 
 <br>
 
-## 💻 ~ 𝓦𝓱𝓪𝓽 𝓘 𝓑𝓾𝓲𝓵𝓭 ~ 💻
+## 🛠️ ~ 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 ~ 🛠️
 
-<img align="right" src="./images/ai_wink.gif" width="180px"/>
+### 💻 Programming Languages
 
-- 🖤 **NoDick** — Telegram media bot (`@Moyechan_bot`): search, stash, autopick. Deployed on Render + PostgreSQL.
-- 🎵 **Anime CLI** — terminal Spotify player with chafa album art, animated progress, zero bloat.
-- 🩺 **Diabetes Predictor** — ML web app for heart disease risk (Django + SVM, deployed on Render).
-- 🕶️ **BlackSite** — stealth-mode web project 🥷.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,bash&theme=dark" alt="Languages"/>
+</p>
 
-<br clear="right"/>
+### ⚙️ Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,django&theme=dark" alt="Frameworks"/>
+</p>
+
+### 🗄️ Database & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,docker,redis&theme=dark" alt="Database & Cloud"/>
+</p>
+
+### 🧰 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&theme=dark" alt="Tools"/>
+</p>
 
 <br>
 
-## 🛠️ ~ 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 ~ 🛠️
+## 📦 ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ 📦
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,fastapi,flask,nodejs,react,mongodb,mysql,postgres,docker,git,linux&theme=dark" alt="Tech Stack"/>
-</p>
+| Project | What it is | Tech |
+|---------|-----------|------|
+| 🖤 **NoDick** | Telegram media bot — search, stash, autopick. Live at `@Moyechan_bot` | [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/Therazerhub/NoDick) |
+| 🎵 **Anime CLI** | Terminal Spotify player — chafa album art, animated progress | [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/Therazerhub/anime-spotify) |
+| 🩺 **Diabetes Predictor** | ML web app — SVM heart-disease risk | [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Therazerhub/diabetes) |
+| 🕶️ **BlackSite** | Stealth-mode web project | [![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://github.com/Therazerhub/BlackSite) |
 
 <br>
 
