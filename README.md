@@ -72,10 +72,9 @@ Status: employed? no. happy? absolutely
 
 | Project | What it is | Tech |
 |---------|-----------|------|
-| 🖤 **NoDick** | Telegram media bot — search, stash, autopick. Live at `@Moyechan_bot` | [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/Therazerhub/NoDick) |
-| 🎵 **Anime CLI** | Terminal Spotify player — chafa album art, animated progress | [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/Therazerhub/anime-spotify) |
 | 🩺 **Diabetes Predictor** | ML web app — SVM heart-disease risk | [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Therazerhub/diabetes) |
-| 🕶️ **BlackSite** | Stealth-mode web project | [![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://github.com/Therazerhub/BlackSite) |
+| 🐈 **CatMoeBot** | Telegram bot — upload files to Catbox.moe | [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/Therazerhub/CatMoeBot) |
+| 🧠 **Portfolio** | Single-page portfolio site | [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Therazerhub/portfolio) |
 
 <br>
 
